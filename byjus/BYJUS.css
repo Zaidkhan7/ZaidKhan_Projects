@@ -1,0 +1,479 @@
+.container{
+    background-image: url("https://cdn1.byjus.com/byjusweb/img/home/svg/homebannerbg.svg");
+    height: 116vh;
+
+}
+
+.byjuslogo img{
+    z-index: 2;
+    padding-left: 100px;
+    padding-top: 25px;
+    height: 35px;
+
+}
+header{
+    display: flex;
+}
+.h{
+    display: flex;
+}
+.studymaterial a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   
+}
+.studymaterial{
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+.scholarship{
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+.buyacourse{
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+.buyacourse a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   
+}
+.scholarship a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   
+}
+
+.byjusgive{
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+.byjusgive a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   
+}
+
+.successstories{
+    padding-left: 50px;
+    margin-top: 30px;
+
+}
+.successstories a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   
+}
+.login{
+    padding-left: 50px;
+    margin-top: 20px;
+}
+.login button{
+    font-size: 16px;
+    border: 0.1px solid yellow;
+    background-color:#813588;
+    color: yellow;
+    border-radius: 7px;
+    height: 35px;
+    width: 70px;
+    
+    
+}
+.phone a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   
+}
+.phone{
+    padding-left: 50px;
+    margin-top: 27px;
+
+}
+.search a{
+    color: yellow;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   
+}
+.search{
+    padding-left: 50px;
+    margin-top: 27px;
+
+}
+
+.middle{
+    display: flex;
+    margin-top: 100px;
+}
+.form{
+    background-color: #f5f2f5;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+   margin-bottom: 1000px;
+   margin-right: 300px;
+    
+}
+#learn{
+    margin-top: -11px;
+    
+}
+#details{
+    font-size: 20px;
+}
+#name{
+    width: 60vh;
+    height: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 6px;
+    background-color: #f5f2f5;
+    border: 1px solid gray;
+}
+#mobile{
+    width: 45vh;
+    height: 30px;
+    border-radius: 6px;
+    border:0;
+    background-color: #f5f2f5;  
+    border: 1px solid gray; 
+    
+}
+#address{
+    width: 30vh;
+    height: 30px;
+    margin-left: 28px;
+    margin-right: 10px;
+    background-color: #f5f2f5;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+#state{
+    width: 30vh;
+    height: 35px;
+    margin-right: 9px;
+    background-color: #f5f2f5;
+    border-radius: 6px;
+    
+}
+#schedule{
+    width: 60vh;
+    height: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-image: linear-gradient(to right,#ff8d33, #ff5362);
+    color: white;
+    border-radius: 6px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+#otp{
+    height: 35px;
+    margin-right: 27px;
+    background-color: #8844ff;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.shah img{
+    width: 800px;
+    height: auto;
+}
+#line1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 10vh;
+}
+#line2{
+    text-align: center;
+    margin-top: -18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#line3{
+    text-align: center;
+    margin-top: -14px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#line4{
+    text-align: center;
+    margin-top: -15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.classes4-10 p{
+
+    border: 1px solid #7656ff;
+    text-align: center;
+    color: white;
+    background-color:#7656ff ;
+    border-radius: 2px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.classes4-10{
+    width: 160px;
+    margin-left: 40%;
+    margin-top: 30px;
+    
+    
+}
+.box1{
+    background-color: #f2f2f2;
+    margin-left: 30vh;
+    margin-right: 25vh;
+    height: 48vh;
+    margin-bottom:20vh;
+    
+}
+#pic{
+    padding-left: 10vh;
+}
+.byjuslogo1{
+    margin-top: -160px;
+}
+.byjuspic2{
+    margin-top: -160px;
+}
+.byjuslogo2{
+    padding-left: 105vh;
+    margin-top: -160px;
+}
+.byjuslogo1 img{
+    
+    width: 20vh;
+    height: 6vh;
+    margin-left: 36vh;
+    
+   
+}
+.byjuslogo2 img
+{
+    height: 8vh;
+    width: 24vh;
+    margin-left: 5vh;
+}
+.byjuspic2 img{
+    width: 28vh;
+    margin-left: 80vh;
+    
+}
+.byjuslogo1 p{
+padding-left: 36vh;
+font-family: Arial, Helvetica, sans-serif;
+}
+.byjuspic1{
+    padding-left: 30px;
+}
+.byjuslogo2 p{
+    padding-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box2{
+   
+    background-color: #f2f2f2;
+    margin-left: 30vh;
+    margin-right: 25vh;
+    padding-bottom: 50px;
+    /*height: 38vh;*/
+
+}
+.twobyjuspic1 img{
+    height: 20vh;
+    width: 33vh;
+    padding-left: 7vh;
+}
+.twobyjuslogo1 img{
+    width: 20vh;
+    height: 15vh;
+    padding-left: 20vh;
+
+    
+   
+}
+.twobyjuspic2 img{
+    padding-left: 20vh;
+    height: 20vh;
+    width: 34vh;
+    
+}
+.two
+{
+    display: flex;
+}
+.box1 button{
+    margin-left: 55vh;
+    height: 60px;
+    width: 25vh;
+    background-image: linear-gradient(to right,#ff8d33, #ff5362);
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+#JEE{
+    margin-left: 13vh;
+    height: 60px;
+    width: 21vh;
+    background-image: linear-gradient(to right,#ff8d33, #ff5362);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+#NEET{
+    margin-left: 72vh;
+    height: 60px;
+    width: 21vh;
+    background-image: linear-gradient(to right,#ff8d33, #ff5362);
+    border: none;
+    border-radius: 8px;
+    color: white;
+  
+}
+.third
+{
+    display: flex;
+    
+    margin-left: 5vh;
+    
+}
+#byjusadvantage , #students{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10vh;
+   font-size: 40px;
+}
+.third img{
+    height: 35vh;
+    padding-left: 20vh;
+}
+.thirdtext{
+    display: flex;
+}
+.thirdtext p{
+    padding-left: 30vh;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.fourth{
+    display: flex;
+}
+.fourth i{
+   font-size: 40px;
+   margin-left: 22vh;
+   padding-left: 10vh;
+   color: #aa76ff;
+
+}
+.fourthtext{
+    display: flex;
+   
+}
+.fourthtext p{
+    margin-left: 19vh;
+    padding-left: 5vh;
+    font-size: 25px;
+    color: #813588;
+}
+.fourthtext article{
+    margin-left: 19vh;
+    padding-left: 5vh;
+    margin-top: -24px;
+    font-size: 20px;
+    text-align: center;
+}
+.timer{
+    margin-left: 60px;
+}
+footer{
+  background-color: #813588;
+  margin-top: 20vh;
+}
+.footers
+{
+  
+  display: inline-flex;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.footers p{
+  color: #ffc846;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.footer1 a , .footer2 a , .footer3 a , .footer4 a,.footer5 a , .footer6 a{
+  color: #cbd5ef;
+  font-size: 15px;
+  line-height: 1.6;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+ 
+}
+.footer1 .footer2 .footer3 .footer4 .footer5,.footer6
+{
+  display: inline;
+  
+}
+.footer1 ,.footer2 ,.footer3, .footer4 ,.footer5,.footer6 {
+  padding-right: 100px;
+}
+.footer4 i{
+    font-size: 25px;
+    padding-left: 20px;
+}
+.afterfooter p{
+    color: #fcb75b;
+    padding-left: 20vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    
+}
+.afterfooter section{
+    color: white;
+    padding-left: 20vh;
+    margin-right: 20vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+#disclaimer{
+    color: white;
+}
+#patent{
+    color:white;
+    padding-left: 80vh;
+    
+}
+.disclaimer{
+    display: flex;
+    
+}
+.footers a:hover{
+    color: white;
+}
+.footers a:active{
+    color: #0000FF;
+}
